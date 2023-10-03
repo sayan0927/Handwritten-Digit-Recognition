@@ -1,12 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-# Machine Learning CS404D Project
 
-# Handwritten Digits Classification
-
-# Submitted by
-# Sayan Paul -          M210653CA , sayan_m210653ca@nitc.ac.in
-# Chirangee Lal Verma - M210696CA , chirangee_m210696ca@nitc.ac.in 
 
 # Problem Statement
 
